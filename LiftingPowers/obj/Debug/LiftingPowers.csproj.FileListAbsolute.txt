@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\LiftingPowers\bin\Debug\LiftingPowers.exe.config
+C:\Marian - 9D\MethodsV2\LiftingPowers\bin\Debug\LiftingPowers.exe
+C:\Marian - 9D\MethodsV2\LiftingPowers\bin\Debug\LiftingPowers.pdb
+C:\Marian - 9D\MethodsV2\LiftingPowers\obj\Debug\LiftingPowers.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\LiftingPowers\obj\Debug\LiftingPowers.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\LiftingPowers\obj\Debug\LiftingPowers.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\LiftingPowers\obj\Debug\LiftingPowers.exe
+C:\Marian - 9D\MethodsV2\LiftingPowers\obj\Debug\LiftingPowers.pdb

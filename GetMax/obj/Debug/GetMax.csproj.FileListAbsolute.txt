@@ -1,0 +1,16 @@
+C:\Marian - 9D\GetMax\ArraysV2\bin\Debug\ArraysV2.exe.config
+C:\Marian - 9D\GetMax\ArraysV2\bin\Debug\ArraysV2.exe
+C:\Marian - 9D\GetMax\ArraysV2\bin\Debug\ArraysV2.pdb
+C:\Marian - 9D\GetMax\ArraysV2\obj\Debug\GetMax.csproj.AssemblyReference.cache
+C:\Marian - 9D\GetMax\ArraysV2\obj\Debug\GetMax.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\GetMax\ArraysV2\obj\Debug\GetMax.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\GetMax\ArraysV2\obj\Debug\ArraysV2.exe
+C:\Marian - 9D\GetMax\ArraysV2\obj\Debug\ArraysV2.pdb
+C:\Marian - 9D\MethodsV2\GetMax\bin\Debug\ArraysV2.exe.config
+C:\Marian - 9D\MethodsV2\GetMax\bin\Debug\ArraysV2.exe
+C:\Marian - 9D\MethodsV2\GetMax\bin\Debug\ArraysV2.pdb
+C:\Marian - 9D\MethodsV2\GetMax\obj\Debug\GetMax.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\GetMax\obj\Debug\GetMax.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\GetMax\obj\Debug\GetMax.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\GetMax\obj\Debug\ArraysV2.exe
+C:\Marian - 9D\MethodsV2\GetMax\obj\Debug\ArraysV2.pdb

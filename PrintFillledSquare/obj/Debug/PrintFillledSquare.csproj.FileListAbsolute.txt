@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\bin\Debug\PrintFillledSquare.exe.config
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\bin\Debug\PrintFillledSquare.exe
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\bin\Debug\PrintFillledSquare.pdb
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\obj\Debug\PrintFillledSquare.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\obj\Debug\PrintFillledSquare.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\obj\Debug\PrintFillledSquare.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\obj\Debug\PrintFillledSquare.exe
+C:\Marian - 9D\MethodsV2\PrintFillledSquare\obj\Debug\PrintFillledSquare.pdb

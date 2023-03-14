@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\TemperatureConvert\bin\Debug\TemperatureConvert.exe.config
+C:\Marian - 9D\MethodsV2\TemperatureConvert\bin\Debug\TemperatureConvert.exe
+C:\Marian - 9D\MethodsV2\TemperatureConvert\bin\Debug\TemperatureConvert.pdb
+C:\Marian - 9D\MethodsV2\TemperatureConvert\obj\Debug\TemperatureConvert.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\TemperatureConvert\obj\Debug\TemperatureConvert.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\TemperatureConvert\obj\Debug\TemperatureConvert.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\TemperatureConvert\obj\Debug\TemperatureConvert.exe
+C:\Marian - 9D\MethodsV2\TemperatureConvert\obj\Debug\TemperatureConvert.pdb

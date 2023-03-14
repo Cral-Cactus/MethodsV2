@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\Receipt\bin\Debug\Receipt.exe.config
+C:\Marian - 9D\MethodsV2\Receipt\bin\Debug\Receipt.exe
+C:\Marian - 9D\MethodsV2\Receipt\bin\Debug\Receipt.pdb
+C:\Marian - 9D\MethodsV2\Receipt\obj\Debug\Receipt.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\Receipt\obj\Debug\Receipt.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\Receipt\obj\Debug\Receipt.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\Receipt\obj\Debug\Receipt.exe
+C:\Marian - 9D\MethodsV2\Receipt\obj\Debug\Receipt.pdb

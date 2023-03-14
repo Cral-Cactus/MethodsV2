@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+C:\Marian - 9D\MethodsV2\PrintTriangle\bin\Debug\PrintTriangle.exe
+C:\Marian - 9D\MethodsV2\PrintTriangle\bin\Debug\PrintTriangle.pdb
+C:\Marian - 9D\MethodsV2\PrintTriangle\obj\Debug\PrintTriangle.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\PrintTriangle\obj\Debug\PrintTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\PrintTriangle\obj\Debug\PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\PrintTriangle\obj\Debug\PrintTriangle.exe
+C:\Marian - 9D\MethodsV2\PrintTriangle\obj\Debug\PrintTriangle.pdb

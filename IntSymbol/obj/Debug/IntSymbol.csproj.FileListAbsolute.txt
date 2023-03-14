@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\IntSymbol\bin\Debug\IntSymbol.exe.config
+C:\Marian - 9D\MethodsV2\IntSymbol\bin\Debug\IntSymbol.exe
+C:\Marian - 9D\MethodsV2\IntSymbol\bin\Debug\IntSymbol.pdb
+C:\Marian - 9D\MethodsV2\IntSymbol\obj\Debug\IntSymbol.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\IntSymbol\obj\Debug\IntSymbol.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\IntSymbol\obj\Debug\IntSymbol.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\IntSymbol\obj\Debug\IntSymbol.exe
+C:\Marian - 9D\MethodsV2\IntSymbol\obj\Debug\IntSymbol.pdb

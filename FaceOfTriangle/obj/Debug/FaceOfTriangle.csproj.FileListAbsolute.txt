@@ -1,0 +1,8 @@
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\bin\Debug\FaceOfTriangle.exe.config
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\bin\Debug\FaceOfTriangle.exe
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\bin\Debug\FaceOfTriangle.pdb
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\obj\Debug\FaceOfTriangle.csproj.AssemblyReference.cache
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\obj\Debug\FaceOfTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\obj\Debug\FaceOfTriangle.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\obj\Debug\FaceOfTriangle.exe
+C:\Marian - 9D\MethodsV2\FaceOfTriangle\obj\Debug\FaceOfTriangle.pdb
